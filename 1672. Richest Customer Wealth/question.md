@@ -36,10 +36,10 @@ A customer's wealth is the amount of money they have in all their bank accounts.
 
 **Example 3:**
 
-    **Input**: accounts = [[2,8,7],[7,1,3],[1,9,5]]
-    **Output**: 17
+Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
+Output: 17
 
-    **Constraints**:
+Constraints:
 
     m == accounts.length
     n == accounts[i].length
